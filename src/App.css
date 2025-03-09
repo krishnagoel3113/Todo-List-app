@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.navbar,.footer{
+    background: #146225e0;
+    font-weight: 800 ;
+}
+.footer{
+    font-weight: 600;
+}
